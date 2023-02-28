@@ -1,6 +1,6 @@
 ### Olá, eu sou a Juliana Airana 👋
 
-- 🔭 Formação em Desenvolvimento Web Front End
+- 🔭 Desenvolvedora Web Front End
 - 🌱 Estudante em formação em Desenvolvimento Web Back End
 - 😄 Pronome: ela/dela
 
