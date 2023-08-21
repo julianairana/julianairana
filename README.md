@@ -1,7 +1,6 @@
 ### Olá, eu sou a Juliana Airana 👋
 
-- 🔭 Desenvolvedora Web Front End
-- 🌱 Estudante em formação em Desenvolvimento Web Back End
+- 🔭 Desenvolvedora Web Full Stack
 - 😄 Pronome: ela/dela
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianairana&show_icons=true&theme=radical)
